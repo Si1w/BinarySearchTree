@@ -1,4 +1,4 @@
-# Advanced Programming - HW3
+# Binary Search Tree
 
 ## Installation and Running
 
@@ -151,7 +151,7 @@ Implement both versions of `operator=` (copy and move versions).
 	```
 </br>
 
-# Finally
+## Finally
 As mentioned before, do not alter other files already populated except otherwise indicated. In case you want to test your code you may use the `debug` section of the `main.cpp`.
 
 ```cpp
