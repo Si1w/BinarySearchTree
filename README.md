@@ -1,5 +1,9 @@
 # Advanced Programming - HW3
-<p  align="center"> <b>Homework 3 - Spring 2022 Semester <br> Deadline: Sunday Farvardin 14st - 11:59 pm</b> </p>
+
+## Installation and Running
+
+The installation part is the same as [LinearAlgebraLibrary](https://github.com/Si1w/LinearAlgebraLibrary)
+
 
 ## Outline
 
@@ -11,7 +15,7 @@ We are going to implement 2 classes one of them is called `Node` which represent
 
 </br>
 
-# Node Class
+## Node Class
 Use the code fraction bellow to implement this class. **note.** you may need to add some keywords to these functions if necessary. other than these keywords you are not allowed to change the functions or add new member functions to this class **unless otherwise specified in the following**.
 
 ```cpp
@@ -46,7 +50,7 @@ implement proper functions so that every possible inequality between a node and 
 
 </br>
 
-# BST Class
+## BST Class
 Use the code fraction bellow to implement this class. **note.** you may need to add some keywords to these functions if necessary. other than these keywords you are not allowed to change the functions or add new member functions to this class **unless otherwise specified in the following**.
 
 ```cpp
@@ -137,7 +141,7 @@ Implement both versions of `operator=` (copy and move versions).
 
 </br> 
  
-# Challenge
+## Challenge
 - If you reached this section congratulations, there is only one part left and its an easy one. Make arrangements so you can add any number of nodes using the constructor. meaning the bellow code should work.
 
 
